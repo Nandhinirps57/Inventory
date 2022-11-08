@@ -10,3 +10,4 @@
 * Spring Boot
 * JPA repository
 * MySql
+* Juint
